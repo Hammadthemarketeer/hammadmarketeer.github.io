@@ -1,3 +1,3 @@
 # Digital-Marketing-Portfolio
 
-Live:https://www.nigerislamnipa.com
+Live:https://hammadthemarketeer.github.io
